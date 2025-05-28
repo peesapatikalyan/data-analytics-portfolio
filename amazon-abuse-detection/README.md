@@ -12,6 +12,9 @@ This project aimed to detect abusive customer behavior and improve delivery expe
 
 I built a system using Python, SQL, and Amazon SageMaker to identify patterns in escalations, conduct root cause analysis, and automate executive reporting dashboards.
 
+> ⚠️ Note: The dataset used in this project is simulated and does not contain any real customer or company data. It was created to represent the structure and challenges of actual escalation cases while maintaining confidentiality.
+
+
 ---
 
 ## 🛠 Tools & Technologies
