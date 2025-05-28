@@ -84,4 +84,4 @@ I built a system using Python, SQL, and Amazon SageMaker to identify patterns in
 
 ## 📬 Contact
 
-- **LinkedIn**: [linkedin.com/in/peesapatikalyan](https://www.linkedin.com/in/peesapatikalyan)
+- **LinkedIn**: [linkedin.com/in/peesapatikalyan](https://www.linkedin.com/in/sreeramakalyan/)
