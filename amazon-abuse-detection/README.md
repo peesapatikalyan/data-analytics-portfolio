@@ -63,7 +63,7 @@ I built a system using Python, SQL, and Amazon SageMaker to identify patterns in
 
 ## 📊 Executive Dashboard Preview
 
-![Amazon Customer Escalation Dashboard](images/escalation_dashboard.png)
+![Amazon Customer Escalation Dashboard](imagesescalation_dashboard.png) 
 
 > Visualized abusive escalation trends by region, FTDS rates over time, and sentiment trends from escalation text.
 
