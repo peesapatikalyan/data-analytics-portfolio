@@ -1,0 +1,44 @@
+---
+title: "Feedback Analysis – Prevention Plays"
+author: "Kalyan Peesapati"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load the dataset
+
+```{r}
+# Set working directory if needed
+# setwd("C:/Users/saika/Desktop/CBA")
+
+# Load dataset
+mpg_data <- read.csv("mpg1.csv")
+
+# Quick preview
+head(mpg_data)
+```
+
+## Summary statistics
+
+```{r}
+summary(mpg_data)
+```
+
+## Data visualization
+
+```{r}
+library(ggplot2)
+
+# Example plot: Highway vs City MPG by class
+ggplot(mpg_data, aes(x = cty, y = hwy, color = class)) +
+  geom_point() +
+  labs(title = "City vs Highway MPG", x = "City MPG", y = "Highway MPG")
+```
+
+## Conclusion
+
+This analysis helps visualize differences in fuel efficiency and usage patterns across car types.
