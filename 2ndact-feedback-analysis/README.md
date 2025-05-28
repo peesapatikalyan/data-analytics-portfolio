@@ -1,75 +1,60 @@
-# Participant Feedback Analytics – 2nd Act Org
+# Capstone Project – Youth Feedback Analytics Using R
+R-based capstone project analyzing prevention play feedback data for 2nd Act Org
 
-📌 **Project Title**: Analyzing Participant Sentiment to Improve Program Outreach  
-🏢 **Organization**: 2nd Act Org, Inc.  
-🧠 **Focus**: Survey Analytics | Demographic Insights | Dashboard Automation
+🎓 **Course:** QSO 705 – Business Analytics Capstone  
+🏢 **Client:** 2nd Act Org  
+🧠 **Focus:** Survey Analytics | R | RMarkdown | Data Visualization
 
 ---
 
 ## 📖 Project Overview
 
-This project focused on analyzing survey responses from participants in **prevention play programs** conducted by 2nd Act Org.  
-The goal was to extract insights on satisfaction levels, analyze demographic trends, and automate reporting for internal teams.
+This project analyzed student feedback collected after participating in 2nd Act's *Prevention Play* program, aimed at raising awareness about Substance Use Disorder (SUD).
 
-I used **SQL, Python, R, and Tableau** to clean, analyze, and visualize participant feedback, ultimately helping the organization make data-informed decisions to improve program effectiveness.
+Using R and RMarkdown, I explored:
+- How student sentiment varies by age, gender, and ethnicity
+- Which parts of the play had the greatest impact
+- How participants’ opinions changed after the session
 
 ---
 
 ## 🛠 Tools & Technologies
 
-- **Languages**: SQL, Python, R  
-- **Libraries**: pandas, ggplot2, dplyr, matplotlib  
-- **Dashboard Tools**: Tableau, Excel  
-- **Automation**: RMarkdown reports, Python scripts
+- **R / RStudio**
+- **Packages:** dplyr, ggplot2, readr
+- **RMarkdown** for report generation
+- **Excel** for further dashboarding
 
 ---
 
-## 🧩 Key Tasks Performed
+## 📊 Key Insights
 
-1. **Data Extraction & Cleaning**
-   - Pulled participant data and feedback from internal databases using SQL
-   - Cleaned survey data using Python (`pandas`) and R (`dplyr`)
+- Majority feedback came from students aged 10–13
+- Over 74% found the play impactful as their "favorite part"
+- 67% reported learning new things about SUD
+- More than 80% said their opinion changed after attending
 
-2. **Sentiment & Trend Analysis**
-   - Analyzed participant responses by region, age group, and gender
-   - Detected satisfaction patterns using survey scoring metrics
+---
 
-3. **Dashboard Creation**
-   - Built Tableau dashboards to visualize satisfaction by location and event type
-   - Created Excel-based summaries for leadership reporting
+## 📂 Files Included
 
-4. **Automation**
-   - Designed automated weekly reporting system using RMarkdown
-   - Reduced manual reporting time by 80%
-
-5. **Collaboration**
-   - Worked with the outreach and program teams to define KPIs
-   - Presented insights to leadership for data-driven outreach planning
+| File | Description |
+|------|-------------|
+| `QSO-705-WEEK-5-KNIT.docx` | Knit output of RMarkdown analysis |
+| `feedback_analysis.R` | R code script used for the project |
+| `README.md` | This file |
 
 ---
 
 ## ✅ Outcomes
 
-- 📈 Improved understanding of participant satisfaction trends across regions  
-- 🧭 Guided outreach teams on where to focus future programs  
-- ⏱️ Saved time by automating repetitive reporting tasks  
-- 💬 Enabled transparent reporting of program impact to stakeholders
-
----
-
-## 📂 Files in This Folder
-
-| File | Description |
-|------|-------------|
-| `feedback_analysis.sql` | SQL queries for extracting participant and survey data |
-| `survey_cleaning_script.py` | Python script for cleaning and preprocessing responses |
-| `feedback_summary.Rmd` | RMarkdown report for weekly automated reporting |
-| `tableau_dashboard.twbx` | Tableau dashboard showing trends and KPIs |
-| `participant_report.pdf` | Sample visual report shared with program team |
+- Helped a nonprofit assess the impact of their outreach program
+- Demonstrated ability to clean, analyze, and communicate results using R
+- Strengthened skills in survey analytics and impact evaluation
 
 ---
 
 ## 📄 License
 
-This project is part of my personal portfolio and is shared for learning and demonstration purposes only.  
+This project is shared for educational and demonstration purposes.  
 Licensed under the [MIT License](https://opensource.org/licenses/MIT).
