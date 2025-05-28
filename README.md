@@ -1,43 +1,66 @@
-Kalyan Peesapati – Data & Business Analytics Portfolio
-🎓 Business Analytics Graduate | 📊 Data-Driven Problem Solver | 💼 Ex-Amazon Analyst
+# 📊 Kalyan Peesapati – Data & Business Analytics Portfolio
+
+🎓 Business Analytics Graduate | 📈 Data-Driven Problem Solver | 💼 Ex-Amazon Analyst  
 📍 Based in the U.S. | 💻 Skilled in Python, SQL, Tableau, Power BI, R, Machine Learning
 
-👋 About Me
-Hi! I'm Kalyan Peesapati, a Business Analytics graduate with hands-on experience solving real-world business problems using data.
-I specialize in fraud detection, customer experience analytics, and predictive modeling using tools like Python, SQL, Tableau, Power BI, and R.
+---
 
-With a background working at Amazon, I’ve worked on fraud investigation, NLP sentiment analysis, and automation of executive-level reporting. I’m passionate about turning data into decisions that drive business value.
+## 👋 About Me
 
-💼 Featured Projects
-📦 1. Amazon Customer Escalation Analytics
-Tools: Python, SQL, Amazon SageMaker, Tableau, NLP (spaCy, Comprehend)
+Hi, I'm **Kalyan Peesapati**, a Business Analytics graduate with a passion for solving business problems using data. I specialize in **fraud detection**, **customer experience analytics**, and **predictive modeling**, and have hands-on experience with tools like **Python, SQL, Tableau, Power BI, and R**.
 
-Automated detection of abusive customers using ML models.
-Built dashboards in Tableau to improve First Time Delivery Success.
-Conducted root cause analysis on social media reviews to prevent fraudulent activity.
-➡️ Outcome: Improved customer satisfaction and reduced financial losses due to abuse.
+During my time at **Amazon**, I worked on high-impact analytics projects involving **NLP sentiment analysis**, **fraud investigation**, and **executive-level reporting automation**. My goal is to turn raw data into meaningful insights that improve performance and drive decision-making.
 
-🎭 2. Participant Survey Feedback – 2nd Act Org
-Tools: SQL, Python (pandas), R, Tableau
+---
 
-Analyzed feedback from event participants across regions.
-Built dynamic dashboards in Tableau to track satisfaction trends.
-Automated weekly reporting system using R and Python.
-➡️ Outcome: Helped optimize outreach strategy and improve participant engagement by 20%.
+## 💼 Featured Projects
 
-💳 3. Credit Risk Modeling
-Tools: R (rpart, randomForest, caret), Excel
+### 📦 1. Amazon Customer Escalation Analytics  
+**Tools:** Python, SQL, Amazon SageMaker, Tableau, NLP (spaCy, Comprehend)
 
-Built CART and Random Forest models to predict credit scores.
-Visualized decision trees and tuned model accuracy with cross-validation.
-➡️ Outcome: Delivered insights for loan approval strategy optimization.
+- Built ML models to detect abusive customer behavior using SageMaker.
+- Developed dashboards in Tableau to improve First Time Delivery Success.
+- Analyzed social media reviews to uncover fraudulent activity patterns.  
+**➡️ Outcome:** Reduced financial losses and improved customer satisfaction.
 
-📚 Skills & Tools
-Languages & Tools: Python, SQL, R, Excel, Tableau, Power BI
-Machine Learning: Regression, Random Forest, XGBoost, CART
-Data Handling: pandas, NumPy, dplyr, caret, rpart
-Cloud & Platforms: Amazon SageMaker, Redshift, QuickSight
-Reporting: Automated dashboards, data storytelling, visualizations
-📫 Connect With Me
-🌐 LinkedIn – Kalyan Peesapati
-📧 Email: saikalyan3@gmail.com
+---
+
+### 🎭 2. Participant Survey Feedback – 2nd Act Org  
+**Tools:** SQL, Python (pandas), R, Tableau
+
+- Analyzed event feedback data from youth participants across U.S. regions.
+- Automated weekly reporting using RMarkdown and Python.
+- Built Tableau dashboards to track engagement and sentiment.  
+**➡️ Outcome:** Helped improve outreach effectiveness and increased engagement by 20%.
+
+---
+
+### 💳 3. Credit Risk Modeling  
+**Tools:** R (rpart, randomForest, caret), Excel
+
+- Developed CART and Random Forest models to predict credit scores.
+- Performed cross-validation and visualized decision trees.
+- Tuned model performance using caret.  
+**➡️ Outcome:** Delivered insights to optimize loan approval strategy.
+
+---
+
+## 📚 Skills & Tools
+
+| Category        | Tools / Technologies |
+|-----------------|----------------------|
+| **Languages**   | Python, SQL, R, Excel |
+| **Visualization** | Tableau, Power BI |
+| **Machine Learning** | Regression, CART, Random Forest, XGBoost |
+| **Libraries**   | pandas, NumPy, dplyr, caret, rpart |
+| **Platforms**   | Amazon SageMaker, Redshift, QuickSight |
+| **Reporting**   | Data storytelling, dashboards, automation |
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/sreeramakalyan/ 
+- **Email:** saikalyan3@gmail.com
+
+---
