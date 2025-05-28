@@ -50,7 +50,7 @@ With a background working at **Amazon**, I’ve worked on fraud investigation, N
 ## 📫 Connect With Me
 
 - 🌐 [LinkedIn – Kalyan Peesapati](https://linkedin.com/in/kalyanpeesapati)  
-- 📧 Email: peesapatikalyan@gmail.com
+- 📧 Email: saikalyan3@gmail.com
 
 ---
 
