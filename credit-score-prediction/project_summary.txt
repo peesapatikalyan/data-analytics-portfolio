@@ -1,0 +1,16 @@
+Credit Score Prediction – Project Summary
+
+Project Overview:
+This project aimed to predict the creditworthiness of individuals using supervised machine learning models.
+Both CART and Random Forest models were trained using financial and demographic features to determine risk of loan default.
+
+Tools and Technologies:
+R (rpart, randomForest, caret), Python (sklearn), Excel, SQL (simulated data queries)
+
+Key Outcomes:
+- Random Forest improved predictive accuracy over CART
+- Identified key risk factors: income, credit history, age
+- Demonstrated ability to apply ML for risk scoring and reporting
+
+Notes:
+This is a simulated academic project created for demonstration purposes in a business analytics portfolio.
