@@ -43,6 +43,14 @@ The project involved data preprocessing, model training, cross-validation, and p
 - Compared CART and RF using accuracy, confusion matrix, and RMSE
 - Identified top predictors: income, credit history, age
 
+## 📊 Dashboard Overview
+
+Created a dashboard to visualize key metrics from the credit score prediction model, including:
+- Risk segmentation
+- Feature importance
+- Default rates by age group
+
+![Credit Risk Dashboard](images/credit_risk_dashboard.png)
 ---
 
 ## ✅ Outcomes
