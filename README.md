@@ -55,6 +55,16 @@ During my time at **Amazon**, I worked on high-impact analytics projects involvi
 
 ---
 
+### 🛒 5. [E-commerce Sales Trend Analysis](ecommerce-sales-trend-analysis/README.md)  
+**Tools:** Python, SQL, Power BI, Excel
+
+- Analyzed simulated sales data to uncover product and regional trends.
+- Built Power BI dashboard to visualize monthly revenue and customer behavior.
+- Used SQL and Python to segment customers and highlight profit drivers.  
+**➡️ Outcome:** Delivered insights to improve sales strategy and increase retention.
+
+---
+
 ## 📚 Skills & Tools
 
 | Category        | Tools / Technologies |
