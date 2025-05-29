@@ -45,6 +45,16 @@ During my time at **Amazon**, I worked on high-impact analytics projects involvi
 
 ---
 
+### 🛡️ 4. [Knoah Solutions – Risk Analytics Project](knoah-risk-analytics/README.md)  
+**Tools:** Python, SQL, Power BI, scikit-learn
+
+- Simulated a fraud detection model using customer interaction data.
+- Applied sentiment and response analysis across multiple channels.
+- Visualized fraud trends and risk drivers in Power BI.  
+**➡️ Outcome:** Flagged high-risk cases and enabled proactive risk reporting.
+
+---
+
 ## 📚 Skills & Tools
 
 | Category        | Tools / Technologies |
@@ -62,5 +72,3 @@ During my time at **Amazon**, I worked on high-impact analytics projects involvi
 
 - **LinkedIn:** https://www.linkedin.com/in/sreeramakalyan/ 
 - **Email:** saikalyan3@gmail.com
-
----
