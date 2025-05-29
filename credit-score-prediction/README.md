@@ -50,7 +50,7 @@ Created a dashboard to visualize key metrics from the credit score prediction mo
 - Feature importance
 - Default rates by age group
 
-![Credit Risk Dashboard](images/credit_risk_dashboard.png)
+![Credit Risk Dashboard](imagescredit_risk_dashboard.png)
 ---
 
 ## ✅ Outcomes
