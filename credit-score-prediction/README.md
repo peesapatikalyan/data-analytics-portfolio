@@ -1,68 +1,73 @@
-# Credit Score Prediction – Machine Learning Project
+# 💳 Credit Score Prediction – Machine Learning Project
 
-📌 **Project Title**: Predicting Credit Risk Using Decision Trees and Random Forest  
-🏫 **Course**: Predictive Business Analytics – QSO 570  
-🧠 **Focus**: Classification Models | Risk Analytics | Model Evaluation
+📌 **Project Title:** Predicting Credit Risk Using Decision Trees and Random Forest  
+🏫 **Course:** Predictive Business Analytics (QSO 570)  
+🧠 **Focus:** Classification Models | Risk Analytics | Model Evaluation
 
+---
 
 ## 📖 Project Overview
 
-In this academic project, I built and compared **CART (Classification and Regression Trees)** and **Random Forest** models to predict the **creditworthiness** of individuals based on their demographic and financial features.
+This project aims to predict the creditworthiness of individuals using supervised machine learning models. Both **CART (Classification and Regression Trees)** and **Random Forest** models were developed using demographic and financial features to determine the likelihood of loan default.
 
-The project involved data preprocessing, model training using the `rpart` and `randomForest` packages in R, and evaluating performance using accuracy and RMSE.
+The project involved data preprocessing, model training, cross-validation, and performance evaluation using metrics such as accuracy and RMSE.
 
-
+---
 
 ## 🛠 Tools & Technologies
 
-- **Language**: R  
-- **Libraries**: `rpart`, `randomForest`, `caret`, `rpart.plot`, `ggplot2`  
-- **Others**: Excel (for initial exploration)
+- **Languages:** R, Python, SQL
+- **R Packages:** `rpart`, `randomForest`, `caret`, `rpart.plot`, `ggplot2`
+- **Python Libraries:** `pandas`, `sklearn`
+- **Other Tools:** Excel (EDA), Power BI/Tableau (dashboard option)
 
+---
 
 ## 🧩 Key Tasks Performed
 
-1. **Data Preprocessing**
-   - Cleaned and formatted credit score data
-   - Handled categorical variables using one-hot encoding
-   - Split data into training and testing sets
+### 🔹 Data Preprocessing
+- Cleaned and formatted credit score dataset
+- One-hot encoded categorical variables
+- Split data into training and test sets
 
-2. **Model Building**
-   - Built a **CART model** using `rpart`
-   - Tuned tree complexity (cp value) to reduce overfitting
-   - Visualized decision tree using `rpart.plot`
+### 🔹 Model Building (R)
+- Trained a CART model using `rpart` and visualized with `rpart.plot`
+- Tuned tree complexity to avoid overfitting
 
-3. **Random Forest Modeling**
-   - Trained a **Random Forest** classifier using `randomForest` package
-   - Used cross-validation via `caret` to select optimal parameters
+### 🔹 Ensemble Modeling
+- Trained a Random Forest classifier using `randomForest` (R)
+- Also implemented Python version using `sklearn`
+- Tuned hyperparameters using `caret` (R) and cross-validation
 
-4. **Model Evaluation**
-   - Compared model performance using **accuracy**, **confusion matrix**, and **RMSE**
-   - Interpreted variable importance to understand key drivers of credit risk
+### 🔹 Model Evaluation
+- Compared CART and RF using accuracy, confusion matrix, and RMSE
+- Identified top predictors: income, credit history, age
 
-
+---
 
 ## ✅ Outcomes
 
-- 🌲 CART model provided a clear, interpretable flow for credit decisioning  
-- 🌳 Random Forest improved predictive accuracy through ensemble learning  
-- 📊 Identified top predictors such as income level, credit history, and age group
+- 🌲 CART provided a simple, interpretable decision structure
+- 🌳 Random Forest yielded better predictive accuracy via ensemble learning
+- 📊 Highlighted the most influential risk factors for loan default
 
+---
 
-
-## 📂 Files in This Folder
+## 📂 Files Included
 
 | File | Description |
 |------|-------------|
-| `credit_score_cart_model.R` | R script for building and visualizing CART model |
-| `credit_score_random_forest.R` | R script for training the Random Forest classifier |
-| `model_evaluation_report.xlsx` | Accuracy, confusion matrix, and RMSE comparison |
-| `credit_score_data.csv` | Cleaned dataset used for modeling (mock data) |
-| `project_summary.pdf` | Final project write-up and insights |
+| `credit_score_cart_model.R` | R script for CART model training and plotting |
+| `credit_score_random_forest.R` | R script for Random Forest model |
+| `credit_score_rf_python.py` | Python version of Random Forest |
+| `credit_score_data.csv` | Cleaned dataset (mock data) |
+| `sql_queries.sql` | Simulated SQL data extraction query |
+| `model_evaluation_report.xlsx` | Model comparison metrics (not included here) |
+| `project_summary.txt` | Project summary for quick reference |
 
-
+---
 
 ## 📄 License
 
-This project is part of my academic portfolio and is shared for demonstration purposes only.  
+This project is part of my academic portfolio and is shared for educational demonstration only.  
 Licensed under the [MIT License](https://opensource.org/licenses/MIT).
