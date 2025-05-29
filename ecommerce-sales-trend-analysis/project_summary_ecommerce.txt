@@ -1,0 +1,22 @@
+
+Project Title: E-commerce Sales Trend Analysis
+
+Overview:
+This project analyzed sales performance across regions, product categories, and customer segments for a simulated e-commerce business. The objective was to identify revenue trends, top-performing areas, and provide insights to improve decision-making.
+
+Tools Used:
+- SQL: For querying transactional data
+- Python (pandas, matplotlib): For data cleaning and trend analysis
+- Excel: For quick reporting and pivot analysis
+- Power BI: For dashboard visualization
+
+Key Takeaways:
+- Electronics and Home & Kitchen led in total revenue
+- West and North regions generated the highest profits
+- Returning customers contributed to over 60% of total revenue
+- Created a dashboard to visualize monthly trends and category-level performance
+
+Note:
+This project uses sample data generated for demonstration purposes. No real customer or business data is shared.
+
+Author: Kalyan Peesapati
