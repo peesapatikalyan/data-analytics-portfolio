@@ -15,6 +15,8 @@ During my time at **Amazon**, I worked on high-impact analytics projects involvi
 
 ## 💼 Featured Projects
 
+> 🛡️ **Note:** Several of the following projects use simulated or anonymized data to reflect real-world business problems while maintaining confidentiality.
+
 ### 📦 1. Amazon Customer Escalation Analytics  
 **Tools:** Python, SQL, Amazon SageMaker, Tableau, NLP (spaCy, Comprehend)
 
