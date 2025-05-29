@@ -1,0 +1,17 @@
+Knoah Solutions – Risk Analytics Project
+
+Project Overview:
+Analyzed customer interaction data from multiple channels (Phone, Chat, Email, Social) to detect patterns of potential fraud.
+Used machine learning techniques and sentiment analysis to flag risky interactions and generate insights for the Risk Management team.
+
+Tools & Technologies:
+- Python (scikit-learn, pandas)
+- SQL (data extraction logic)
+- Tableau/Power BI (dashboard reporting)
+- Excel (manual reporting)
+- Confluence (project documentation)
+
+Key Outcomes:
+- Detected suspicious interactions based on sentiment and response behavior
+- Reduced false positives using Random Forest classifier
+- Visualized fraud trends by channel and issue type for leadership reports
